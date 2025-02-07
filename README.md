@@ -6,8 +6,6 @@ Welcome to the Travel World-Map project! This project aims to create an interact
 
 - Interactive world map
 - Mark visited locations
-- Add travel notes and photos
-- Share travel experiences with others
 
 ## Installation
 
@@ -31,17 +29,3 @@ Welcome to the Travel World-Map project! This project aims to create an interact
     npm start
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
-
-## Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact us at [email@example.com](mailto:email@example.com).
-
-Enjoy your travels!

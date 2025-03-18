@@ -9,7 +9,7 @@ Welcome to the Travel World-Map project! This project aims to create an interact
 
 ## Demo Video
 
-[Watch the demo video](./Demo_Video_(Track_Your_Travel).mp4)
+https://github.com/abhishekprasad22/Track-Your-Travel/raw/refs/heads/master/Demo_Video_(Track_Your_Travel).mp4
 
 ## Installation
 

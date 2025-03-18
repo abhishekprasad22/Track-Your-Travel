@@ -9,7 +9,9 @@ Welcome to the Travel World-Map project! This project aims to create an interact
 
 ## Demo Video
 
-[Watch the demo video](./Demo_Video_(Track_Your_Travel).mp4)
+<video width="600" controls>
+  <source src="./Demo_Video_(Track_Your_Travel).mp4" type="video/mp4">
+</video>
 
 ## Installation
 

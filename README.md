@@ -9,8 +9,7 @@ Welcome to the Travel World-Map project! This project aims to create an interact
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://youtu.be/pPUxS6VTESs?si=Mxchc8MpxltcC1SC" frameborder="0" allowfullscreen></iframe>
-
+Watch the demo video [![image](https://github.com/user-attachments/assets/1b0f9a4d-645a-401d-b00c-55596d019eec)](https://youtu.be/pPUxS6VTESs)
 
 ## Installation
 

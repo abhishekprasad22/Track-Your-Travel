@@ -7,6 +7,10 @@ Welcome to the Travel World-Map project! This project aims to create an interact
 - Interactive world map
 - Mark visited locations
 
+## Demo Video
+
+[Watch the demo video](./Demo Video (Track Your Travel).mp4)
+
 ## Installation
 
 1. Clone the repository:
@@ -31,7 +35,4 @@ Welcome to the Travel World-Map project! This project aims to create an interact
 2. Open your browser and navigate to `http://localhost:3000`.
 
 
-## Demo Video
-
-Watch the demo video [![image](https://github.com/user-attachments/assets/1b0f9a4d-645a-401d-b00c-55596d019eec)](https://youtu.be/pPUxS6VTESs)
 
